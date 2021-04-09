@@ -1,15 +1,18 @@
 
-   # [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+# [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  # Readme-generator
+# readme-generator
+
   ---
-  ## Description
-  After input makes a premade readme!
+
+## Description
+  Makes a readme!
 
 
 
 ---
-  ## Table of content
+
+## Table of content
   
 * [Install](#install)
 
@@ -20,33 +23,43 @@
 * [Test](#test)
 
 * [Questions](#questions)
-  --- 
+
+
 <a name="install"/>
-  ### Install
-  download with npm install and then node index.js 
+
+### Install
+
+  npm install and then node index.js
 
 
-
-  ---
 <a name="licenses"/>
-  ### Licenses
-   https://opensource.org/licenses/EPL-1.0
-   You are using Creative Commons license!
 
-   ---
-   <a name="contributer"/>
-  ### Contributers
+### Licenses
+
+   https://opensource.org/licenses/Apache-2.0
+   You are using Apache license!
+
+
+<a name="contributer"/>
+
+### Contributers
+
   me
 
-  ---
-  <a name="test"/>
-  ### Test
+
+<a name="test"/>
+
+### Test
+
   none
 
   
-  ---
-  <a name="questions"/>
-  ### Questions
-  If you have anyquestions contact me
+
+
+<a name="questions"/>
+
+### Questions
+
+  If you have any questions contact me
  * Github profile: https://github.com/itsvnvo
  * Email: itsvnvo@gmail.com
