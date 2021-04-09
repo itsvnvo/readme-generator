@@ -1,10 +1,20 @@
 // TODO: Include packages needed for this application
-const inquirer = require("inquirer");
+const inquirer = require("./Develop/node_modules/inquirer");
 const fs = require("fs").promises;
-const generateMarkdown = require('./utils/generateMarkdown')
+const generateMarkdown = require('./Develop/utils/generateMarkdown')
 // TODO: Create an array of questions for user input
 const questions = () => {
     return inquirer.prompt([
+      {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email?',
+      },
+      {
+        type: 'input',
+        name: 'githubUser',
+        message: 'What is your Github username?',
+      },
       {
         type: 'input',
         name: 'title',
@@ -17,11 +27,6 @@ const questions = () => {
       },
       {
         type: 'input',
-        name: 'tableofContent',
-        message: 'What is in the table of contents?',
-      },
-      {
-        type: 'input',
         name: 'install',
         message: 'Describe how the project should be installed',
       },
@@ -29,7 +34,7 @@ const questions = () => {
         type: 'list',
         name: 'license',
         message: 'What licenses did you use?',
-        choices:['Apache','Boost','BSD','Creative Commons','Eclipse']
+        choices:['Apache','Boost','BSD','Creative Commons','Eclipse','None']
       },
       {
         type: 'input',
