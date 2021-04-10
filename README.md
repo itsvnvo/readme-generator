@@ -6,7 +6,7 @@
   ---
 
 ## Description
-  Makes a readme based on what is input!
+  Makes a readme based on what is input! As for demo purposes it will be the read me displayed here!
 
 
 
@@ -28,8 +28,9 @@
 <a name="install"/>
 
 ### Install
+![Video](https://github.com/itsvnvo/readme-generator/blob/main/Develop/Untitled_%20Apr%2010%2C%202021%201_49%20PM.gif) \
 
-  npm install and then node index.js in your terminal
+ npm install and then node index.js in your terminal
 
 
 <a name="licenses"/>
