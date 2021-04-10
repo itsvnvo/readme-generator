@@ -6,7 +6,7 @@
   ---
 
 ## Description
-  Makes a readme!
+  Makes a readme based on what is input!
 
 
 
@@ -29,7 +29,7 @@
 
 ### Install
 
-  npm install and then node index.js
+  npm install and then node index.js in your terminal
 
 
 <a name="licenses"/>
@@ -44,14 +44,14 @@
 
 ### Contributers
 
-  me
+  Me
 
 
 <a name="test"/>
 
 ### Test
 
-  none
+  None
 
   
 
@@ -60,6 +60,6 @@
 
 ### Questions
 
-  If you have any questions contact me
+  If you have any questions contact me!
  * Github profile: https://github.com/itsvnvo
  * Email: itsvnvo@gmail.com
